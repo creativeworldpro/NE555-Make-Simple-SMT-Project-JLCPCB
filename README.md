@@ -109,7 +109,7 @@ To order your SMT PCBs, visit JLCPCB.
  
  4. Add your Bom file and CPL file.
  
- 5.Place your order click on “Save to Cart” button.
+ 5. Place your order click on “Save to Cart” button.
  
  6. Confirm your shipping address and shipping method.
  
