@@ -58,27 +58,28 @@ Its 8 legs pinout can be seen above -
 
 8. VCC
 
+
 Feature of NE555 - 
 
- Variety of Timer
+ 1. Variety of Timer
  
- Delay Timer
+ 2. Delay Timer
  
- Pulse generation
+ 3. Pulse generation
  
- Oscillator Applications
+ 4. Oscillator Applications
  
- Lamp and LED flashers
+ 5. Lamp and LED flashers
  
- Logic clocks
+ 6. Logic clocks
  
- Tone generations
+ 7. Tone generations
  
- Security alarms
+ 8. Security alarms
  
- Position Modulation
+ 9. Position Modulation
  
- LED blinker
+ 10. LED blinker
  
 Step 1 - Order PCBs From JLCPCB
 
@@ -94,29 +95,29 @@ Click on “Gerber Viewer” button you can check the PCBs design. Make sure eve
 
 If you are a new user, then you can order 10 pieces PCBs, costing only $2. To place your order click on “Save to Cart” button. Confirm your shipping address and shipping method.
 
+
+
 Step 2 - Order PCBs From JLCPCB
 
 To order your SMT PCBs, visit JLCPCB.
 
+ 1. Drag and drop SMT PCBs file on site.
+ 
+ 2. Choose your PCBs color and quantity.
+ 
+ 3. To free SMT assembly for your PCB click on “SMT Assembly” button and then confirm.
+ 
+ 4. Add your Bom file and CPL file.
+ 
+ 5.Place your order click on “Save to Cart” button.
+ 
+ 6. Confirm your shipping address and shipping method.
+ 
+ 7. Pay your payment
+ 
+ 8. Wait for confirmation mail.
+ 
 
- Drag and drop SMT PCBs file on site.
- 
- Choose your PCBs color and quantity.
- 
- To free SMT assembly for your PCB click on “SMT Assembly” button and then confirm.
- 
- Add your Bom file and CPL file.
- 
- Place your order click on “Save to Cart” button.
- 
- Confirm your shipping address and shipping method.
- 
- Pay your payment
- 
- Wait for confirmation mail.
- 
- For SMT Service, Click here.
- 
  
  Shipping and Billing - 
  
@@ -124,28 +125,28 @@ To order your SMT PCBs, visit JLCPCB.
 
 Estimated Delivery Time -
 
-DHL International Express 3-5 business days
+✔ DHL International Express 3-5 business days
 
-UPS Worldwide Saver 3-6 business days
+✔ UPS Worldwide Saver 3-6 business days
 
-S.F Express(Standard) 5-8 business days
+✔ S.F Express(Standard) 5-8 business days
 
-S.F Express(Economy) 8-15 business days
+✔ S.F Express(Economy) 8-15 business days
 
-Singapore EMS 8-15 business days PostLink
+✔ Singapore EMS 8-15 business days PostLink
 
-Registered Mail 15-20 business days ePacket 15-25 business days
+✔ Registered Mail 15-20 business days ePacket 15-25 business days
 
-Registered Air Mail 15-20 business days
+✔ Registered Air Mail 15-20 business days
 
 
 JLCPCB supported Payment method.
 
-PayPal
+✔ PayPal
 
-Credit/Debit Card
+✔ Credit/Debit Card
 
-Prepaid wire transfer
+✔ Prepaid wire transfer
 
 
 Confirm PCBs Order - 
